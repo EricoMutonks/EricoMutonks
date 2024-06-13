@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricoMutonks
 - 👀 I’m interested in cybersecurity, mobile development and Data science
 - 🌱 I’m currently learning MVC architecture to solve web development problems and implement better solutions
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on machine learning, web and mobile development projects
 - 📫 How to reach me mutonkoleerico@gmail.com
 
 <!---
